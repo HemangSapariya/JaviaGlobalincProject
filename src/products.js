@@ -70,7 +70,7 @@ export const products = [
 
   {
     "cat": "tile",
-    "img": "/products/classic-ep507.jpg",
+    "img": "/products/classic-ep507.png",
     "tag": "Tile Adhesive",
     "name": "Classic EP507",
     "desc": "Polymer modified adhesive suitable for flooring tiles, with easy mixing and application and good bonding strength.",
@@ -82,7 +82,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/gold-ep515.jpg",
+    "img": "/products/classic-ep515.png",
     "tag": "Tile Adhesive",
     "name": "Gold EP515",
     "desc": "Polymer modified adhesive suitable for vitrified, ceramic, glaze and mosaic tiles for flooring and walls.",
@@ -94,7 +94,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/platinum-ep525.jpg",
+    "img": "/products/classic-ep525.png",
     "tag": "Tile Adhesive",
     "name": "Platinum EP525",
     "desc": "High-performance polymer modified adhesive for larger tile and stone applications where strong bonding is required.",
@@ -106,7 +106,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/diamond-ep535.jpg",
+    "img": "/products/classic-ep535.png",
     "tag": "Tile Adhesive",
     "name": "Diamond EP535",
     "desc": "Polymer modified adhesive designed for large-format tile and stone applications with high bonding performance.",
@@ -118,7 +118,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/duraflex-pu.jpg",
+    "img": "/products/duraflex-pu.jpeg",
     "tag": "PU Adhesive",
     "name": "Duraflex PU",
     "desc": "High-elasticity PU adhesive with non-sag characteristics for ceramic tiles, vitrified tiles, marble and natural stone.",
@@ -130,7 +130,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/admix-stone-bond.jpg",
+    "img": "/products/admix-stone-bond.png",
     "tag": "Bonding System",
     "name": "Admix Stone Bond",
     "desc": "Two-component cement-and-polymer-based bonding adhesive used prior to tile adhesive installation to improve bonding performance.",
@@ -142,7 +142,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/tile-grout.jpg",
+    "img": "/products/tile-grout.jpeg",
     "tag": "Joint Filler",
     "name": "Tile Grout",
     "desc": "Resin-based three-part epoxy tile joint filler with chemical resistance, abrasion resistance and easy-clean properties.",
@@ -154,7 +154,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/tile-additive.jpg",
+    "img": "/products/tile-additive.png",
     "tag": "Grout Additive",
     "name": "Tile Additive",
     "desc": "White polymer emulsion added to cementitious tile grout to improve flexibility, strength, water and stain resistance.",
@@ -166,7 +166,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/tiles-and-stone-cleaner.jpg",
+    "img": "/products/tiles-and-stone-cleaner.png",
     "tag": "Cleaner",
     "name": "Tiles & Stone Cleaner",
     "desc": "Multipurpose cleaner for regular maintenance of tiles, marble and natural stones, including lime-scale removal.",
@@ -178,7 +178,7 @@ export const products = [
   },
   {
     "cat": "tile",
-    "img": "/products/epoxy.jpg",
+    "img": "/products/epoxy.png",
     "tag": "Epoxy",
     "name": "Epoxy",
     "desc": "Epoxy construction solution presented in the supplied product range for specialist applications.",
@@ -195,7 +195,7 @@ export const products = [
 
   {
     "cat": "wall",
-    "img": "/products/wall-primer.jpg",
+    "img": "/products/wall-primer.jpeg",
     "tag": "Primer",
     "name": "Wall Primer",
     "desc": "Wall preparation product included in the brochure's construction-chemicals and building-materials range for coating and finishing systems.",
@@ -207,7 +207,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/exterior-and-interior-emulsion.jpg",
+    "img": "/products/exterior-and-interior-emulsion.jpeg",
     "tag": "Emulsion",
     "name": "Exterior & Interior Emulsion",
     "desc": "Emulsion product from the brochure range for interior and exterior finishing requirements.",
@@ -219,7 +219,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/distemper.jpg",
+    "img": "/products/distemper.jpeg",
     "tag": "Wall Finish",
     "name": "Distemper",
     "desc": "Wall finishing product included in the supplied construction-chemicals and building-materials portfolio.",
@@ -231,7 +231,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/fine-wall-putty.jpg",
+    "img": "/products/fine-wall-putty.jpeg",
     "tag": "Wall Putty",
     "name": "Fine Wall Putty",
     "desc": "Fine wall-finishing product from the brochure range for smooth surface preparation and finishing.",
@@ -243,7 +243,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/rough-wall-putty.jpg",
+    "img": "/products/rough-wall-putty.jpeg",
     "tag": "Wall Putty",
     "name": "Rough Wall Putty",
     "desc": "Wall preparation and finishing product included in the supplied product portfolio.",
@@ -255,7 +255,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/acrylic-wall-texture.jpg",
+    "img": "/products/acrylic-wall-texture.jpeg",
     "tag": "Texture",
     "name": "Acrylic Wall Texture",
     "desc": "Acrylic-based wall texture product from the brochure range for decorative and protective surface finishing.",
@@ -267,7 +267,7 @@ export const products = [
   },
   {
     "cat": "wall",
-    "img": "/products/crackfill.jpg",
+    "img": "/products/crackfill.jpeg",
     "tag": "Repair",
     "name": "Crackfill",
     "desc": "Construction repair product from the supplied range for filling and surface correction requirements.",
@@ -284,7 +284,7 @@ export const products = [
 
   {
     "cat": "water",
-    "img": "/products/damp-proof.jpg",
+    "img": "/products/damp-proof.jpeg",
     "tag": "Waterproofing",
     "name": "Damp Proof",
     "desc": "Waterproofing product from the brochure range for construction surfaces requiring protection against damp-related issues.",
@@ -296,7 +296,7 @@ export const products = [
   },
   {
     "cat": "water",
-    "img": "/products/duraseal-2k.jpg",
+    "img": "/products/duraseal-2k.jpeg",
     "tag": "Waterproof Coating",
     "name": "Duraseal 2K",
     "desc": "Modified cementitious flexible waterproof coating with durability and resistance characteristics for internal and external applications.",
@@ -308,7 +308,7 @@ export const products = [
   },
   {
     "cat": "water",
-    "img": "/products/sbr.jpg",
+    "img": "/products/sbr.jpeg",
     "tag": "Waterproofing / Bonding",
     "name": "SBR",
     "desc": "Composite waterproof coating system used with cement, glass fibre, silica sand and related repair mixes.",
@@ -325,7 +325,7 @@ export const products = [
 
   {
     "cat": "concrete",
-    "img": "/products/power-set-cement-slurry.jpg",
+    "img": "/products/power-set-cement-slurry.jpeg",
     "tag": "Cement Treatment",
     "name": "Power Set Cement Slurry",
     "desc": "Cement-slurry product included in the brochure's construction-chemical and building-material range.",
@@ -337,7 +337,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/block-joint-mortar.jpg",
+    "img": "/products/block-joint-mortar.png",
     "tag": "Mortar",
     "name": "Block Joint Mortar",
     "desc": "Ready-mix mortar designed for stronger and more durable bonding of AAC blocks, concrete blocks and fly-ash bricks.",
@@ -349,7 +349,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/floor-hardener.jpg",
+    "img": "/products/floor-hardener.jpeg",
     "tag": "Flooring",
     "name": "Floor Hardener",
     "desc": "High-quality cementitious, non-metallic concrete floor hardener designed for durable, abrasion-resistant floors.",
@@ -361,7 +361,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/gp2-precision-grouting.jpg",
+    "img": "/products/gp2-precision-grouting.jpeg",
     "tag": "Precision Grout",
     "name": "GP2 Precision Grouting",
     "desc": "One-component ready-to-mix cement-based engineering grout for precision grouting applications.",
@@ -373,7 +373,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/concrete-fiber.jpg",
+    "img": "/products/concrete-fiber.jpeg",
     "tag": "Concrete Additive",
     "name": "Concrete Fiber",
     "desc": "Fiber product from the supplied construction-chemicals and building-materials portfolio for concrete-related performance and reinforcement applications.",
@@ -385,7 +385,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/crystasil.jpg",
+    "img": "/products/crystasil.jpeg",
     "tag": "Concrete Protection",
     "name": "Crystasil",
     "desc": "Construction chemical and building material from the brochure range for concrete and surface-protection requirements.",
@@ -397,7 +397,7 @@ export const products = [
   },
   {
     "cat": "concrete",
-    "img": "/products/101-lw-plus.jpg",
+    "img": "/products/101-lw-plus.jpeg",
     "tag": "Concrete Admixture",
     "name": "101 LW+",
     "desc": "Lightweight concrete admixture product from the supplied range, with dosage depending on the cement composition and required outcome.",
