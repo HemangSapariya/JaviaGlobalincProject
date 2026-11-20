@@ -198,7 +198,7 @@ function App() {
     const body = encodeURIComponent(
       `Name: ${form.name}\nEmail: ${form.email}\nCompany: ${form.company}\nProduct: ${form.product}\n\nRequirement:\n${form.message}`
     );
-    window.location.href = `mailto:javiaglobalinc@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:sales@javiaglobalinc.com?subject=${subject}&body=${body}`;
   };
 
   const closeMenu = () => setMenuOpen(false);
@@ -494,7 +494,7 @@ function App() {
               </p>
               <div className="contact-box">
                 <div className="contact-item"><b>Company</b>Javia Global Inc.</div>
-                <div className="contact-item"><b>Email</b><a href="mailto:javiaglobalinc@gmail.com" style={{color:"var(--blue)"}}>javiaglobalinc@gmail.com</a></div>
+                <div className="contact-item"><b>Email</b><a href="mailto:sales@javiaglobalinc.com" style={{color:"var(--blue)"}}>sales@javiaglobalinc.com</a></div>
                 <div className="contact-item">
   <b>Phone</b>
   <a href="tel:+917016170203" style={{ color: "var(--blue)" }}>
